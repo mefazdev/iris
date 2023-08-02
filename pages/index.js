@@ -42,7 +42,11 @@ export default function Home() {
       <Head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Your Page Title</title>
+        <title>IRIS FOUNDATION</title>
+
+        <meta
+          name="description"
+          content="Iris Foundation’s innovative approach equips rural educators with the skills, resources, and support needed to transform the lives of their students, creating a brighter future for India’s rural communities."/>
       </Head>
       <main className="home">
         <div className=" bg-white p-4 pt-5     md:p-0">
