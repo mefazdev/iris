@@ -1,0 +1,57 @@
+.home h1{
+    font-family: 'Charis SIL', serif;
+    /* font-family: 'Inconsolata', monospace; */
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-family: 'Nunito', sans-serif; */
+    /* font-family: 'Rubik', sans-serif; */
+    /* font-size: 80px; */
+    font-weight: 800;
+    /* line-height: 100px; */
+}
+
+@media only screen and (min-width: 600px) {
+    .main__banner{
+height: 96vh;
+    }
+  }
+
+ 
+.home button{
+    font-family: 'Charis SIL', serif;
+    /* font-size: 20px; */
+}
+
+.black__box{
+    
+    margin: auto;
+    font-family: 'Charis SIL', serif;
+   
+ }
+ 
+
+.icon__box{
+    /* max-width: 80%; */
+    /* border: solid red; */
+margin: auto;
+}
+.icon__box div{
+   margin: auto;
+}
+
+.footer{
+    color: #0088ff;
+    /* max-width: 60%; */
+    font-family: 'Charis SIL', serif;
+  
+    font-size: 17px;
+    /* margin: auto; */
+}
+.footer p{
+    margin-top: 15px;
+}
+.bottem p{
+    font-family: 'Charis SIL', serif;
+  
+    /* font-size: 17px; */
+    color: rgb(104, 103, 103);
+}
