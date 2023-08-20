@@ -1,6 +1,6 @@
 .home h1{
     font-family: 'Charis SIL', serif;
-    /* font-family: 'Inconsolata', monospace; */
+    /* font-amily: 'Inconsolata', monospace; */
     /* font-family: 'Montserrat', sans-serif; */
     /* font-family: 'Nunito', sans-serif; */
     /* font-family: 'Rubik', sans-serif; */
@@ -55,3 +55,66 @@ margin: auto;
     /* font-size: 17px; */
     color: rgb(104, 103, 103);
 }
+/* rgb(51, 101, 138) */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.framer-text {
+    --font-selector: R0Y7TWFyZ2FyaW5lLXJlZ3VsYXI=;
+    --framer-font-family: "Margarine", sans-serif;
+    --framer-font-size: 278.448px;
+    --framer-line-height: 1.1em;
+    --framer-text-alignment: center;
+    --framer-text-color: rgb(51, 101, 138);
+    --framer-text-transform: uppercase;
+    font-family: var(--framer-font-family);
+    font-size: var(--framer-font-size);
+    line-height: var(--framer-line-height);
+    text-align: var(--framer-text-alignment);
+    color: var(--framer-text-color);
+    text-transform: var(--framer-text-transform);
+  }
+  @media only screen and (max-width: 800px) {
+    .framer-text{
+        --framer-font-size: 100.448px;
+    }
+  }
+  .about h2{
+    font-family: "Margarine", sans-serif;
+  }
+
+  .abt__contetnt h3{
+     
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+ }
+ .abt__contetnt  p{
+     
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    /* color: #fff; */
+ }
+ .abt__contetnt  h5, button{
+     
+    font-family: 'Space Mono', monospace;
+    /* font-weight: 400; */
+    color: #fff;
+ }
+
+
+ .prgm__row{
+    font-family: 'Space Mono', sans-serif;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px; }
+
+

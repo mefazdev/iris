@@ -49,6 +49,7 @@ export default function Home() {
           content="Iris Foundation’s innovative approach equips rural educators with the skills, resources, and support needed to transform the lives of their students, creating a brighter future for India’s rural communities."/>
       </Head>
       <main className="home">
+        <div className="border-b pb-20">
         <div className=" bg-white p-4 pt-5     md:p-0">
           <div className="flex flex-col items-center justify-center main__banner">
             <div className=" w-20 h-20 md:w-24 md:h-24   ">
@@ -130,9 +131,9 @@ export default function Home() {
           </p>
 
           <p className="text-lg mt-2 md:mt-0">
-            Iris Foundation’s innovative approach equips rural educators with
+            Iris Foundation&apos;s innovative approach equips rural educators with
             the skills, resources, and support needed to transform the lives of
-            their students, creating a brighter future for India’s rural
+            their students, creating a brighter future for India&apos;s rural
             communities.
           </p>
           <div style={backgroundStyle} className="rounded-2xl mt-4  md:hidden   h-52  "></div>
@@ -230,7 +231,7 @@ export default function Home() {
         </div>
 
         {/* <<<<<<<<<<< JOIN >>>>>>>>>>>>>> */}
-        <div className="black__box md:w-3/4 px-4 md:px-0  pt-28">
+        <div className="black__box   md:w-3/4 px-4 md:px-0  pt-28">
          <h4 
          className=" text-2xl md:text-4xl font-bold"
          style={{color:'rgb(2, 62, 138)'}}>Join our endeavor to redefine  <br/> rural education in India.</h4>
@@ -249,7 +250,7 @@ export default function Home() {
               </button>
        </div>
         </div>
-
+        </div>
         <Footer/>
       </main>
     </>

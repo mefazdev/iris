@@ -5,7 +5,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 export default function Footer() {
   return (
-    <div className="border-t pt-5 md:pt-20    mt-10 md:mt-36  ">
+    <div className="  pt-5 md:pt-15      ">
       <div className="grid md:w-3/4 px-4 md:px-0 gap-2 text-sm md:grid-cols-3 footer m-auto">
         <div>
           <p>About</p>
