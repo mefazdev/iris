@@ -144,7 +144,7 @@ export default function Home() {
         <div className="px-4 md:px-0  grid gap-4 md:gap-10 md:grid-cols-2 black__box   md:w-3/4 pt-10 md:pt-20">
           <div className="flex flex-col  justify-center  ">
             <p className="text-2xl md:text-4xl  font-semibold text-gray-950">
-              Curriculum Tailored to Rural Students’ Needs
+              Curriculum Tailored to Rural Students&apos;Needs
             </p>
 
             <p className="text-lg mt-3">

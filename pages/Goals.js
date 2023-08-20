@@ -62,7 +62,7 @@ export default function Goals() {
               confidence, decision-making abilities, and personal development.
             </p>
             <p className="mt-2 text-lg">
-              Awareness campaigns on women's rights, health, and hygiene,
+              Awareness campaigns on women&apos;s rights, health, and hygiene,
               promoting gender equity and challenging societal stereotypes.
             </p>
             <p className="mt-2 text-lg">
