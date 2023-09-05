@@ -51,7 +51,7 @@ export default function Home() {
       </Head>
       <main className="home">
         <Navbar/>
-        <div className="border-b pb-20">
+        <div className="border-b pb-20 pt-16 md:pt-0">
         <div className=" bg-white p-4 pt-5     md:p-0">
           <div className="flex flex-col items-center justify-center main__banner">
             <div className=" w-20 h-20 md:w-24 md:h-24   ">
