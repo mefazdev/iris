@@ -21,7 +21,7 @@ export default function Donate() {
             </p>
             <p>
               Champion a cause close to your heart and join a community that
-              cares. With the IRIS Foundation's transparent approach, you can
+              cares. With the IRIS Foundation&apos;s transparent approach, you can
               rest assured that your contribution makes a genuine impact.
             </p>
           </div>
