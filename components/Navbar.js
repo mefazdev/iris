@@ -1,21 +1,13 @@
-import YouTubeIcon from "@mui/icons-material/YouTube";
+ 
 // import logoOne from "../public/images/home/logo.png";
 import mobmenu from '../assets/images/mobile_menu.svg'
 import logo from '../assets/images/logo.png'
 import Image from "next/image";
-import ShareIcon from "@mui/icons-material/Share";
-import FacebookIcon from "@material-ui/icons/Facebook";
-import TwitterIcon from "@material-ui/icons/Twitter";
-import WhatsAppIcon from "@mui/icons-material/WhatsApp";
-import InstagramIcon from "@mui/icons-material/Instagram";
-import LinkedInIcon from "@material-ui/icons/LinkedIn";
-import ExpandMoreSharpIcon from "@material-ui/icons/ExpandMoreSharp";
-// import mobileMenu from "../public/images/mobile_menu.svg";
+ // import mobileMenu from "../public/images/mobile_menu.svg";
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import ArrowRightIcon from "@mui/icons-material/ArrowRight";
-import { useSelector, useDispatch } from "react-redux";
+ 
  
 
  
