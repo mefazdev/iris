@@ -13,6 +13,7 @@ import mah from "../assets/../assets/images/mah.jpg";
 import fazil from "../assets/images/fazil.jpg";
 import fawad from "../assets/images/fawad.jpg";
 import Footer from "@/components/Footer";
+import Navbar from "@/components/Navbar";
 export default function Home() {
   const backgroundStyle = {
     backgroundImage:
@@ -49,6 +50,7 @@ export default function Home() {
           content="Iris Foundation’s innovative approach equips rural educators with the skills, resources, and support needed to transform the lives of their students, creating a brighter future for India’s rural communities."/>
       </Head>
       <main className="home">
+        <Navbar/>
         <div className="border-b pb-20">
         <div className=" bg-white p-4 pt-5     md:p-0">
           <div className="flex flex-col items-center justify-center main__banner">
